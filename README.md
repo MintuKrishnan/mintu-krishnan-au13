@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCCa7PeKdV775kCRjgDS-zJA)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Mern-Stack-red)](https://www.youtube.com/channel/UCCa7PeKdV775kCRjgDS-zJA)
 [![Linkedin Badge](https://img.shields.io/badge/-Mintu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintu-krishnan-7a023533/)](https://www.linkedin.com/in/mintu-krishnan-7a023533/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mintu-green)](https://www.themintfactor.in)
 
